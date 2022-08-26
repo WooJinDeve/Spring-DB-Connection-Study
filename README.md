@@ -49,3 +49,23 @@
 - JDBC 개발
 
 </details>
+
+<details>
+<summary><h3>커넥션풀과 데이터소스 이해</h3></summary>
+
+- [커넥션 풀 이해](https://github.com/WooJinDeve/Spring-DB-Connection-Study/issues/2#issue-1352090583)
+- DataSource 이해
+
+</details>
+
+<details>
+<summary><h3>JDBC 이해</h3></summary>
+
+- [트랜잭션 - 개념 이해](https://github.com/WooJinDeve/Spring-DB-Connection-Study/issues/3#issue-1352297482)
+- JDBC 표준 인터페이스
+- 데이터베이스 연결 구조와 DB 세션
+- 트랜잭션 - DB
+- DB 락 - 개념 이해
+- 트랜잭션 적용
+
+</details>
