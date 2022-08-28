@@ -59,7 +59,7 @@
 </details>
 
 <details>
-<summary><h3>JDBC 이해</h3></summary>
+<summary><h3>트랜잭션 이해</h3></summary>
 
 - [트랜잭션 - 개념 이해](https://github.com/WooJinDeve/Spring-DB-Connection-Study/issues/3#issue-1352297482)
 - JDBC 표준 인터페이스
@@ -67,5 +67,42 @@
 - 트랜잭션 - DB
 - DB 락 - 개념 이해
 - 트랜잭션 적용
+
+</details>
+
+<details>
+<summary><h3>실전 트랜잭션</h3></summary>
+
+- [트랜잭션 추상화](https://github.com/WooJinDeve/Spring-DB-Connection-Study/issues/4#issue-1353325939)
+- 트랜잭션 동기화
+- 트랜잭션 매니저
+- 트랜잭션 템플릿
+- 트랜잭션 AOP 이해
+- 스프링 부트 - 자동 리소스 등록
+
+</details>
+
+<details>
+<summary><h3>예외계층</h3></summary>
+
+- [예외계층](https://github.com/WooJinDeve/Spring-DB-Connection-Study/issues/5#issue-1353326049)
+- 예외 기본 규칙
+
+- 체크 예외 기본 이해
+- 언체크 예외 기본 이해
+- 체크 예외 활용
+- 언체크 예외 활용
+- 예외 포함과 스택 트레이스
+
+</details>
+
+<details>
+<summary><h3>예외처리, 반복</h3></summary>
+
+- [체크 예외와 인터페이스](https://github.com/WooJinDeve/Spring-DB-Connection-Study/issues/6#issue-1353326178)
+- 예외 기본 규칙
+- 데이터 접근 예외
+- 스프링 예외 추상화 이해
+- JDBC 반복 문제 해결 - JdbcTemplate
 
 </details>
