@@ -1,6 +1,8 @@
 # 개요
 
-- [스프링 DB 1편 - 데이터 접근 핵심 원리](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-db-1)를 통해 배운것들을 정리한 Repository입니다.
+- [스프링 DB 1편 - 데이터 접근 핵심 원리](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-db-1)
+- [스프링 DB 2편 - 데이터 접근 활용 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-db-2)
+- 배운것들을 정리한 Repository입니다.
 
 # 스프링 시작
 
@@ -104,5 +106,35 @@
 - 데이터 접근 예외
 - 스프링 예외 추상화 이해
 - JDBC 반복 문제 해결 - JdbcTemplate
+
+</details>
+
+<details>
+<summary><h3>데이터 접근 기술 진행 방식</h3></summary>
+
+- [데이터 접근 기술 방식](https://github.com/WooJinDeve/Spring-DB-Connection-Study/issues/7#issue-1355366972)
+- 데이터 베이스 식별자
+
+</details>
+
+<details>
+<summary><h3>스프링 JdbcTemplate</h3></summary>
+
+- [JdbcTemplate 소개](https://github.com/WooJinDeve/Spring-DB-Connection-Study/issues/8#issue-1355367615)
+- JdbcTemplate 구성
+- JdbcTemplate 이름 지정 파라미터
+- SimpleJdbcInsert
+- JdbcTeamplate 기능 정리
+
+</details>
+
+<details>
+<summary><h3>테스트 - 데이터베이스 연동</h3></summary>
+
+- [테스트 데이터 베이스](https://github.com/WooJinDeve/Spring-DB-Connection-Study/issues/9#issue-1355368403)
+- 테스트 - 데이터 롤백
+- @Transactional
+- 임베디드 모드 DB
+- 스프링 부트와 임베디드 모드
 
 </details>
