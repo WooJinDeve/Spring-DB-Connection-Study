@@ -138,3 +138,35 @@
 - 스프링 부트와 임베디드 모드
 
 </details>
+
+
+<details>
+<summary><h3>MyBatis</h3></summary>
+
+- [MyBatis 소개](https://github.com/WooJinDeve/Spring-DB-Connection-Study/issues/10#issue-1357032099)
+- MyBatis 설정
+- MyBatis 적용
+- MyBatis 분석
+- MyBatis 기능 - 동적 쿼리
+- MyBatis 기능 - 기타 기능
+
+</details>
+
+<details>
+<summary><h3>JPA</h3></summary>
+
+- [ORM(Object-relational mapping : 객체 관계 매핑](https://github.com/WooJinDeve/Spring-DB-Connection-Study/issues/11#issue-1357032562)
+- JPA 소개
+- JPA 적용
+- JPA 예외 변환
+
+</details>
+
+<details>
+<summary><h3>스프링 데이터 JPA, QueryDsl</h3></summary>
+
+- [스프링 데이터 JPA 기능](https://github.com/WooJinDeve/Spring-DB-Connection-Study/issues/12#issue-1357033490)
+- 스프링 데이터 JPA 적용
+- QueryDsl
+
+</details>
