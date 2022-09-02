@@ -18,6 +18,8 @@
         - `Spring Boot` : `Jar`
     - `Dependencies`
         - `JDBC` : `JDBC`, `H2`, `Lombok`
+        - `MyBatis` : `H2` `MyBatis Framework`
+        - `JPA` : `SPRING DATA JPA`, `H2`, `LomBok`
 
 
 - **IDE Setting**
@@ -30,7 +32,11 @@
       - `Lombok`
           - `testCompileOnly 'org.projectlombok:lombok'`
           - `testAnnotationProcessor 'org.projectlombok:lombok'`
-
+      - **QueryDsl**
+          - `implementation 'com.querydsl:querydsl-jpa`
+          - `annotationProcessor "com.querydsl:querydsl-apt:5.0.0:jpa`
+          - `annotationProcessor "jakarta.annotation:jakarta.annotation-api`
+          - `annotationProcessor "jakarta.persistence:jakarta.persistence-api`
 
 - **H2 DataBase**
   - **Download**
@@ -38,6 +44,7 @@
   - **Setting**
     - `JDBC URL` : `jdbc:h2:tcp://localhost/~/test`
     - `User` : `sa`
+    
     
 # 공부
 
@@ -168,5 +175,34 @@
 - [스프링 데이터 JPA 기능](https://github.com/WooJinDeve/Spring-DB-Connection-Study/issues/12#issue-1357033490)
 - 스프링 데이터 JPA 적용
 - QueryDsl
+
+</details>
+
+<details>
+<summary><h3>스프링 트랜잭션</h3></summary>
+
+- [스프링 트랜잭션 추상화](https://github.com/WooJinDeve/Spring-DB-Connection-Study/issues/13#issue-1359678359)
+- 스프링 트랜잭션 사용 방식
+- 트랜잭션 적용 확인
+- 트랜잭션 우선순위
+- 트랜잭션 AOP 주의 사항 - 프록시 내부 호출
+- 트랜잭션 AOP 주의 사항 - 프록시 내부 호출 해결
+- 트랜잭션 AOP 주의사항 - 초기화 시점
+- 트랜잭션 옵션 소개
+- 예외와 트랜잭션 커밋, 롤백 - 기본
+- 예외와 트랜잭션 커밋, 롤백 - 활용
+
+</details>
+
+<details>
+<summary><h3>스프링 트랜잭션 전파</h3></summary>
+
+- [커밋, 롤백](https://github.com/WooJinDeve/Spring-DB-Connection-Study/issues/14#issue-1359680089)
+- 트랜잭션 두번 사용
+- 트랜잭션 전파
+- 스프링 트랜잭션 전파 - 외부 롤백
+- 스프링 트랜잭션 전파 - 내부 롤백
+- 스프링 트랜잭션 전파 - REQUIRES_NEW
+- 스프링 트랜잭션 전파 옵션
 
 </details>
