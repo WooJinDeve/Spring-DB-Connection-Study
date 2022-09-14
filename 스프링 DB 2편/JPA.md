@@ -166,4 +166,4 @@ public class JpaItemRepository implements ItemRepository {
         - 스프링과 JPA를 함께 사용하는 경우 스프링은 JPA 예외 변환기 `(PersistenceExceptionTranslator)`를 등록한다.
         - 예외 변환 `AOP 프록시`는 `JPA 관련 예외`가 발생하면 `JPA 예외 변환기`를 통해 발생한 예외를 스프링 데이터 접근 예외로 변환한다
 
-![Untitled](JPA%20d5284f4528b04cd2adaa1d8f985b2f18/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/106054507/190154620-3560a235-be90-449e-b354-6d2a27579750.png)
