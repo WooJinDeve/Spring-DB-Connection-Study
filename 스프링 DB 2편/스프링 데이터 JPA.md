@@ -9,7 +9,7 @@
     
 - **공통 인터페이스 기능**
 
-![Untitled](%E1%84%89%E1%85%B3%E1%84%91%E1%85%B3%E1%84%85%E1%85%B5%E1%86%BC%20%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%20JPA%209804772d8b6c4816bc78d1da476b90e6/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/106054507/190154745-1f37328a-eee8-4442-86f9-4577886f5294.png)
 
 - `JpaRepository` 인터페이스를 통해서 기본적인 `CRUD` 기능 제공한다.
 - 공통화 가능한 기능이 거의 모두 포함되어 있다.
