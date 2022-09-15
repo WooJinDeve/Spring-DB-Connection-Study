@@ -1,8 +1,7 @@
 # 개요
 
-- [스프링 DB 1편 - 데이터 접근 핵심 원리](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-db-1)
-- [스프링 DB 2편 - 데이터 접근 활용 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-db-2)
-- 배운것들을 정리한 Repository입니다.
+- [스프링 DB 1편](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-db-1) 및 [스프링 DB 2편](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-db-2)에서 배운것을 정리한 Repository입니다.
+- 스프링 강의 프로젝트 파일에는 강의를 위한 **기본코드만 제공**됩니다.
 
 # 스프링 시작
 
